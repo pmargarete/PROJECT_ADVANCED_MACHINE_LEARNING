@@ -15,7 +15,7 @@ This project is about analyzing industry trends in the LinkedIn job market with 
 - **Evaluation Metrics**: Silhouette Score (SC), Davies-Bouldin Index (DBI), Calinski-Harabasz Index (CHI)
 
 
-## 👤 My Role
+## My Role
 - Conducted review of related literature (RRL) on clustering algorithms (K-Means, Agglomerative Clustering, GMM, DBSCAN, Spectral Clustering), topic modeling (LDA), and dimensionality reduction techniques (t-SNE, UMAP) to inform methodological choices
 - Researched the theoretical foundations and comparative strengths of Word2Vec, BERT-based embeddings, BERTopic, and Top2Vec to evaluate their applicability in job market trend analysis
 - Collaborated with a developer in the group by translating research findings into actionable guidance for algorithm selection
